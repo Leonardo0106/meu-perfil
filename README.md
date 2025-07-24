@@ -1,0 +1,1 @@
+Projeto de perfil pessoal feito apenas com HTML. Nele compartilho minha biografia, redes sociais e formas de contato. Criei essa página para me apresentar de forma simples e prática na web, praticando estruturação em HTML e organizando minhas informações profissionais.
