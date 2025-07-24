@@ -1,0 +1,1 @@
+Este é meu perfil pessoal desenvolvido com HTML puro. A página apresenta uma breve biografia sobre mim, minhas redes sociais e formas de contato. O objetivo foi praticar HTML e criar uma apresentação simples, organizada e acessível na web.
