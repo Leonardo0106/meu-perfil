@@ -9,3 +9,5 @@ A proposta foi criar uma página de apresentação pessoal contendo informaçõe
 
  Objetivo
 Praticar conceitos fundamentais de desenvolvimento web e dar início à construção do meu portfólio como desenvolvedor.
+
+Acesse o link do meu projeto: https://leonardo0106.github.io/meu-perfil/
